@@ -1,0 +1,10 @@
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\obj\Debug\LR_R_A_N_Tochno.csproj.AssemblyReference.cache
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\obj\Debug\LR_R_A_N_Tochno.Properties.Resources.resources
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\obj\Debug\LR_R_A_N_Tochno.csproj.GenerateResource.cache
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\obj\Debug\LR_R_A_N_Tochno.csproj.CoreCompileInputs.cache
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\bin\Debug\LR_R_A_N_Tochno.exe.config
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\bin\Debug\LR_R_A_N_Tochno.exe
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\bin\Debug\LR_R_A_N_Tochno.pdb
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\obj\Debug\LR_R_A_N_Tochno.Form1.resources
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\obj\Debug\LR_R_A_N_Tochno.exe
+C:\Users\Pcholozmii\source\repos\LR_R_A_N_Tochno\obj\Debug\LR_R_A_N_Tochno.pdb
